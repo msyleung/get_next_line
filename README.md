@@ -6,8 +6,7 @@ Recreation of the getline function in C<p>
 Written in accordance with the norm. *(see below)<br>
 Functions allowed: read, malloc, free<br>
 Only two files may be submitted alongside libft (our 1st project, a recreation of useful tools from the C library)<p>
-
-
+<br>
 <p align=left>--<B>Project Summary</B>--<br>
 *Write a function that returns a line read from a file descriptor<br>
 *a "line" is defined as a succession of characters that end with a '\n' (ascii code 0x0a) or with End of File (EOF)<Br>
@@ -18,9 +17,7 @@ Only two files may be submitted alongside libft (our 1st project, a recreation o
 *static variables are allowed<br>
 *Bonus points if: -use only one static variable / handle multiple file descriptors<p>
 <p>
-
 <br>
-
 <p align=left>--<b>Norm</b> (Very Brief Summary, does not encompass all the rules)--<br>
 *Functions must not exceed 25 lines, not counting the function's own curly brackets<br>
 *No more than 5 function-definitions in a .c file<br>
