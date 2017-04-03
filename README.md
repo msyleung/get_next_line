@@ -17,7 +17,7 @@ Functions allowed: `read, malloc, free`
 • Bonus points if: -use only one static variable / handle multiple file descriptors
 ```
 
---**Norm** *(Very Brief Summary, does not encompass all the rules)*--
+--**the Norm**--
 ```
 • Functions must not exceed 25 lines, not counting the function's own curly brackets
 • No more than 5 function-definitions in a .c file
