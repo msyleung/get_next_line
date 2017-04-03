@@ -4,7 +4,7 @@
 Recreation of the getline function in C
 
 Written in accordance with the norm. (see below)
-Functions allowed: read, malloc, free
+Functions allowed: `read, malloc, free`
 Only two files may be submitted alongside libft (our 1st project, a recreation of useful tools from the C library)<p>
 
 --**Project Summary**--
